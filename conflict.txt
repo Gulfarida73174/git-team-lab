@@ -1,1 +1,1 @@
-Favorite language: Java
+Favorite language: C++
